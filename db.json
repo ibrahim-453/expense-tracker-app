@@ -1,0 +1,12 @@
+{
+  "expenses": [
+    {
+      "id": "20c3",
+      "select": "expense",
+      "title": "Bills",
+      "category": "Electricity",
+      "amount": "8000",
+      "date": "2025-04-10"
+    }
+  ]
+}
